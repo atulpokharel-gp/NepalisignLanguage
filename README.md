@@ -1,12 +1,12 @@
 # NepalisignLanguage
 ## TO run 
-#step first
+# step first
   pip install -r requirements.txt
-#step second 
+# step second 
   install cudn according to tensorflow-gpu version //
-#step third
+# step third
   python NSL_Recognition.py
 
 
-//#//#///////////////////////////////////////////////////////////
-your program is  ready
+# ///////////////////////////////////////////////////////////
+### your program is  ready
