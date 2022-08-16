@@ -21,11 +21,12 @@ To run this project you would need:
   source env/bin/activate
 ```
 
-- Install the required packages
+ Install the required packages
 
-```python3
+```
+  python3
   pip3 install -r requirements.txt
-
+```
 ``` 
  install cudn according to tensorflow-gpu version
 ```
