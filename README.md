@@ -22,7 +22,7 @@ To run this project you would need:
 ```
 for linux
 ```bash
-./env/bin/activate
+./env/Scripts/activate
 ```
 for window
  Install the required packages
