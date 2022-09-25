@@ -20,7 +20,11 @@ To run this project you would need:
 ```bash
   source env/bin/activate
 ```
-
+for linux
+```bash
+./env/bin/activate
+```
+for window
  Install the required packages
 
 ```
