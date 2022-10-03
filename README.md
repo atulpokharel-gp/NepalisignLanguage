@@ -20,7 +20,7 @@ To run this project you would need:
 ```bash
   source env/bin/activate
 ```
-for linux
+-for linux
 ```bash
 ./env/Scripts/activate
 ```
